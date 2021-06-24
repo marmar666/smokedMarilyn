@@ -16,7 +16,7 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
-background-image: linear-gradient(to right, red , yellow,#FF8700, yellow, red);
+background-image: linear-gradient(to right, blue , yellow,#FF8700, yellow, blue);
 mix-blend-mode: color;
 pointer-events: none;
 }
